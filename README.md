@@ -4,22 +4,19 @@
 
 Install the tap via:
 
-```
-sh
+```sh
 brew tap ethanr-io/tap
 ```
 
 Or you can install individual products via:
 
-```
-sh
+```sh
 brew install ethanr-io/tap/<name>
 ```
 
 ## Available packages
 
-```
-sh
+```sh
 # Casks
 brew install ethanr-io/tap/timezy
 ```
