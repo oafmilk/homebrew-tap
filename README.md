@@ -10,6 +10,9 @@ Or you can install individual products via:
 
     brew install ethanr-io/tap/<name>
 
-## Available Casks
+## Available packages
 
-* Timezy `brew install ethanr-io/tap/timezy`
+```
+# Casks
+brew install ethanr-io/tap/timezy
+```
