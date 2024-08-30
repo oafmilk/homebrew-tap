@@ -6,7 +6,7 @@ Install the tap via:
 
     brew tap ethanr-io/tap
 
-Then you can install individual products via:
+Or you can install individual products via:
 
     brew install ethanr-io/tap/timezy
 
