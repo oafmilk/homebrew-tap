@@ -14,6 +14,8 @@ Or you can install individual products via:
 brew install ethanr-io/tap/<name>
 ```
 
+For more information on installing Homebrew https://brew.sh and `brew tap` https://docs.brew.sh/Taps
+
 ## Available packages
 
 ```sh
