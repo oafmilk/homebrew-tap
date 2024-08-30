@@ -8,7 +8,7 @@ Install the tap via:
 
 Or you can install individual products via:
 
-    brew install ethanr-io/tap/timezy
+    brew install ethanr-io/tap/<name>
 
 ## Available Casks
 
