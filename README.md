@@ -5,13 +5,13 @@
 Install the tap via:
 
 ```sh
-brew tap ethanr-io/tap
+brew tap oafmilk/tap
 ```
 
 Or you can install individual products via:
 
 ```sh
-brew install ethanr-io/tap/<name>
+brew install oafmilk/tap/<name>
 ```
 
 For more information on installing Homebrew https://brew.sh and `brew tap` https://docs.brew.sh/Taps
@@ -20,5 +20,5 @@ For more information on installing Homebrew https://brew.sh and `brew tap` https
 
 ```sh
 # Casks
-brew install ethanr-io/tap/timezy
+brew install oafmilk/tap/timezy
 ```
