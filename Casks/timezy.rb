@@ -4,7 +4,7 @@ cask "timezy" do
 
   url "https://cdn.ethanr.io/Timezy-#{version}.dmg"
   name "Timezy"
-  desc "Simple timezone app"
+  desc "Timezone menu bar app"
   homepage "https://ethanr.io/"
 
   depends_on macos: ">= :ventura"
